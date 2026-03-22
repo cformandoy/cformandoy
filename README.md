@@ -40,10 +40,9 @@ Expert in the JavaScript ecosystem and Google Cloud Platform. Based in Chile, op
 
 ---
 
-### GitHub Stats
+### GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cformandoy&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cformandoy&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=cformandoy&theme=tokyonight&hide_border=true)
 
 ---
 
